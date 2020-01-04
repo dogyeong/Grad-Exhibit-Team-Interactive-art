@@ -3,5 +3,4 @@
 팀 인터랙티브 아트<br>
 http://dt.pusan.ac.kr/pages/DT_page/DT_009_page/index.html<br>
 <br><br>
-![41359511_2146681192317607_2008672421650491244_n.jpg](./41359511_2146681192317607_2008672421650491244_n.jpg)
-![inter.gif](./inter.gif)
+![team-inter.gif](./team-inter.gif)
