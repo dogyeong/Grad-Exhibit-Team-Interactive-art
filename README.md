@@ -1,1 +1,7 @@
-# Grad-Exhibit-Team-Interactive-art
+# '반갑습니다'
+2018 부산대학교 디자인학과 디자인앤테크놀로지전공 8회 졸업전시회<br>
+팀 인터랙티브 아트<br>
+http://dt.pusan.ac.kr/pages/DT_page/DT_009_page/index.html<br>
+<br><br>
+![41359511_2146681192317607_2008672421650491244_n.jpg](./41359511_2146681192317607_2008672421650491244_n.jpg)
+![inter.gif](./inter.gif)
